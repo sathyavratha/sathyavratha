@@ -6,7 +6,7 @@
 <img align="right" width="110" height="150" src="https://github.com/user-attachments/assets/a690a0d4-a959-44d3-840a-12a414ea8752">
 
 
-### Here's my [portfolio](https://drive.google.com/file/d/1a5kBw41-kKqoqdWcNeiQAL35jmiPO3bw/view?usp=drive_link)                                                 
+### Here's my [Resume -](https://drive.google.com/file/d/1a5kBw41-kKqoqdWcNeiQAL35jmiPO3bw/view?usp=drive_link)                                                 
 I’m currently learning DSA and integrating 
 Cybersecurity to my workflow✨
 

@@ -10,6 +10,11 @@
 I’m currently learning DSA and integrating 
 Cybersecurity to my workflow✨
 
+Fun Facts 🎀  :
+- I love Math ✔ </br>
+- I love to read 📚</br>
+- Art and music are my soft spot 🎶</br>
+- And of course I'm obsessed with the Internet💕!
 </br>
 
 ### I code in :

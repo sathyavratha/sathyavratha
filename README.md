@@ -1,12 +1,16 @@
 ## Hi there 👋 I'm Sathya!
 
-Computer Science student
-<img align="right" width="370" height="290" src="![216655825-c639587f-6eb0-4841-b622-9f522f55d40e](https://github.com/user-attachments/assets/97f7016a-4bb0-4aab-84a3-eb9f1b0ccff0)
-">
+#### *Computer Science student*
+---
+
+<img align="right" width="110" height="150" src="https://github.com/user-attachments/assets/a690a0d4-a959-44d3-840a-12a414ea8752">
+
 
 ### Here's my [portfolio](https://drive.google.com/file/d/1a5kBw41-kKqoqdWcNeiQAL35jmiPO3bw/view?usp=drive_link)                                                 
-I’m currently learning DSA and integrating Cybersecurity to my workflow✨
+I’m currently learning DSA and integrating 
+Cybersecurity to my workflow✨
 
+</br>
 
 ### I code in :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,15 +28,14 @@ I’m currently learning DSA and integrating Cybersecurity to my workflow✨
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</br>
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</br>
 ![MS Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
 
 
 ### I did some of my online learning through :

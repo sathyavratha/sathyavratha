@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Sathya!
 
 Computer Science student
----
+<img align="right" width="370" height="290" src="![216655825-c639587f-6eb0-4841-b622-9f522f55d40e](https://github.com/user-attachments/assets/97f7016a-4bb0-4aab-84a3-eb9f1b0ccff0)
+">
+
 ### Here's my [portfolio](https://drive.google.com/file/d/1a5kBw41-kKqoqdWcNeiQAL35jmiPO3bw/view?usp=drive_link)                                                 
 I’m currently learning DSA and integrating Cybersecurity to my workflow✨
 
